@@ -1,1 +1,2 @@
 print("magham")
+print("aytha")
